@@ -1,0 +1,38 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #234E70;
+}
+
+Card-Body {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-button {
+  background-color: #FBF8BE;
+  color: #234E70;
+  margin-top: auto;
+}
+
+.heading, .intro{
+  padding-top: 16px;
+  padding-bottom: 16px;
+  color: white;
+}
+
+.info-link {
+  color: white;
+  text-decoration: none;
+}
+.info-link:link {
+  color: white;
+  text-decoration: none;
+}
+.info-link:visited{
+  color: white;
+  text-decoration: none;
+}
+.info-link:hover {
+  color: #FBF8BE;
+  text-decoration: none;
+}

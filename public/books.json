@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "isbn": "0593132424",
+      "title": "How Beautiful We Were",
+      "author": "Imbolo Mbue",
+      "published": "2021-03-09T00:00:00.000Z",
+      "publisher": "Random House",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637609278l/59683998._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/51794532-how-beautiful-we-were",
+      "description": "From the celebrated author of the New York Times bestseller Behold the Dreamers, comes a sweeping, wrenching story about the collision of a small African village and an America oil company."
+    },
+    {
+      "isbn": "125079076X",
+      "title": "The Plot",
+      "author": "Jean Hanff Korelitz",
+      "published": "2021-05-119T00:00:00.000Z",
+      "publisher": "Celadon Books",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626185013l/55315487._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/55315487-the-plot",
+      "description": "Hailed as breathtakingly suspenseful, Jean Hanff Korelitz's The Plot is a propulsive read about a story too good not to steal, and the writer who steals it."
+    },
+    {
+      "isbn": "125077358X",
+      "title": "Ariadne",
+      "author": "Jennifer Saint ",
+      "published": "2021-05-04T00:00:00.000Z",
+      "publisher": "Flatiron Books",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602391134l/54921609._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/54921609-ariadne",
+      "description": "In a world where women are nothing more than the pawns of powerful men, will Ariadne's decision to betray Crete for Theseus ensure her happy ending? Or will she find herself sacrificed for her lover's ambition?"
+    },
+    {
+      "isbn": "1982160136",
+      "title": "The Other Black Girl",
+      "author": "Zakiya Dalila Harris ",
+      "published": "2021-06-01T00:00:00.000Z",
+      "publisher": "Atria",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606634487l/55824957.jpg",
+      "website": "https://www.goodreads.com/book/show/55824957-the-other-black-girl",
+      "description": "Get Out meets The Stepford Wives in this electric debut about the tension that unfurls when two young Black women meet against the starkly white backdrop of New York City book publishing."
+    },
+    {
+      "isbn": "1250178606",
+      "title": "The Four Winds",
+      "author": "Kristin Hannah",
+      "published": "2021-02-09T00:00:00.000Z",
+      "publisher": "St. Martin's Press",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595208739l/53496907._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/53496907-the-four-winds",
+      "description": "A powerful American epic about love and heroism and hope, set during the Great Depression, a time when the country was in crisis and at war with itself, when millions were out of work and even the land seemed to have turned against them."
+    },
+    {
+      "isbn": "1501171348",
+      "title": "The Last Thing He Told Me",
+      "author": "Laura Dave",
+      "published": "2021-05-04T00:00:00.000Z",
+      "publisher": "Simon & Schuster",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607179621l/56169546._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/56169546-the-last-thing-he-told-me",
+      "description": "We all have stories we never tell. Before Owen Michaels disappears, he manages to smuggle a note to his beloved wife of one year: Protect her."
+    },
+    {
+      "isbn": "1250621739",
+      "title": "Unbound: My Story of Liberation and the Birth of the Me Too Movement",
+      "author": "Tarana Burke",
+      "published": "2021-19-14T00:00:00.000Z",
+      "publisher": "Flatiron Books: An Oprah Book",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619011035l/57351643.jpg",
+      "website": "https://www.goodreads.com/book/show/57351643-unbound",
+      "description": "Tarana Burke shares her never before revealed life story of how she first came to say me too and launch one of the largest cultural events in American history."
+    },
+    {
+      "isbn": "0593329821",
+      "title": "The Paper Palace",
+      "author": "Miranda Cowley Heller",
+      "published": "2021-07-06T00:00:00.000Z",
+      "publisher": "Riverhead Books",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607320833l/55994372._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/55994372-the-paper-palace",
+      "description": "Elle will have to decide between the life she has made with her genuinely beloved husband, Peter, and the life she always imagined she would have had with her childhood love, Jonas, if a tragic event hadn't forever changed the course of their lives."
+    },
+    {
+      "isbn": "1984881663",
+      "title": "The Push",
+      "author": "Ashley Audrain",
+      "published": "2021-01-05T00:00:00.000Z",
+      "publisher": "Pamela Dorman Books",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609854219l/52476830._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/52476830-the-push",
+      "description": "A tense, page-turning psychological drama about the making and breaking of a family–and a woman whose experience of motherhood is nothing at all what she hoped for–and everything she feared."
+    },
+    {
+      "isbn": "1538702347",
+      "title": "What's Mine and Yours",
+      "author": "Naima Coster",
+      "published": "2021-03-02T00:00:00.000Z",
+      "publisher": "Grand Central Publishing",
+      "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614625050l/54424592._SY475_.jpg",
+      "website": "https://www.goodreads.com/book/show/54424592-what-s-mine-and-yours",
+      "description": "...A sweeping novel of legacy, identity, the American family-and the ways that race affects even our most intimate relationships."
+    }
+  ]  
+}
