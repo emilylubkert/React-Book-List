@@ -23,8 +23,8 @@ function Book({ data }) {
               width="100%"
             />
           </div>
-          <div className="col-md-8">
-          <CardBody>
+          <div className="col-md-8" id="card-div">
+          <CardBody className="book-card">
             <CardTitle tag="h5">{data.title}</CardTitle>
             <CardSubtitle className="mb-2 text-muted" tag="h6">
               {data.author}

@@ -3,7 +3,7 @@ body {
   background-color: #234E70;
 }
 
-Card-Body {
+#card-div, .book-card {
   display: flex;
   flex-direction: column;
 }
